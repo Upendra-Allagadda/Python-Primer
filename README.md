@@ -10,7 +10,7 @@ Welcome to the **Python for Beginners** repository! This repository is designed 
 
 ## Table of Contents
 
-1. Introduction to Python(#introduction-to-python)
+1. [Introduction to Python](#introduction-to-python)
    - What is Python?
    - Why Python?
    - Setting up your Python environment
