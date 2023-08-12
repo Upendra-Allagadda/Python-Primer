@@ -10,27 +10,25 @@ Welcome to the **Python for Beginners** repository! This repository is designed 
 
 ## Table of Contents
 
-1. [Introduction to Python](#introduction-to-python)
+1. Introduction to Python(#introduction-to-python)
    - What is Python?
    - Why Python?
    - Setting up your Python environment
 
-2. [Python Basics](#python-basics)
+2. Python Basics (please refer basic.md)
    - Variables and Data Types
    - Operators and Expressions
    - Control Flow (if statements, loops)
    - Functions and Modules
-
-3. [Data Structures in Python](#data-structures-in-python)
    - Lists
    - Dictionaries
 
-4. [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
+3. Object-Oriented Programming (OOP) (please refer Oops.md)
    - Understanding Classes and Objects
    - Encapsulation, Inheritance, Polymorphism
    - OOP in Python
 
-5. Assignments and answers
+4. Assignments and solutions (please refer Practice folder)
 
 ## 1. Introduction to Python
 
