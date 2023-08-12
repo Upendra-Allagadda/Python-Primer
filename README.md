@@ -15,7 +15,7 @@ Welcome to the **Python for Beginners** repository! This repository is designed 
    - Why Python?
    - Setting up your Python environment
 
-2. Python Basics (please refer basic.md)
+2. [Python Basics](basics.md) (refer **basics.md** file)
    - Variables and Data Types
    - Operators and Expressions
    - Control Flow (if statements, loops)
@@ -23,12 +23,12 @@ Welcome to the **Python for Beginners** repository! This repository is designed 
    - Lists
    - Dictionaries
 
-3. Object-Oriented Programming (OOP) (please refer Oops.md)
+3. [Object-Oriented Programming (OOP)](Oops.md) (refer **Oops.md** file)
    - Understanding Classes and Objects
    - Encapsulation, Inheritance, Polymorphism
    - OOP in Python
 
-4. Assignments and solutions (please refer Practice folder)
+4. [Assignments and solutions](Practice) (refer **Practice** folder)
 
 ## 1. Introduction to Python
 
